@@ -73,10 +73,10 @@ body:
       required: true
   - type: checkboxes
     attributes:
-      label: Update your Slack profile
-      description: Go to [Slack profile information](https://depo-platform-documentation.scrollhelp.site/getting-started/slack-profile)
+      label: Slack profile
+      description: 
       options:
-        - label: Complete
+        - label: Update your [Slack profile](https://depo-platform-documentation.scrollhelp.site/getting-started/slack-profile)
   - type: checkboxes
     attributes:
       label: Request access to tools
