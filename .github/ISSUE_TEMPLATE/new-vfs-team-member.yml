@@ -89,6 +89,17 @@ body:
   - type: checkboxes
     attributes:
       label: Opt out of Google Analytics on all of your browsers on your work machines, personal machines (if you are not a Veteran yourself using the site for your own applications), and mobile devices
-      description: Go to Opt out of Google Analytics](https://www.va.gov/analytics-opt-out.html)
+      description: Go to [Opt out of Google Analytics](https://www.va.gov/analytics-opt-out.html)
       options:
+        - label: Complete
+  - type: checkboxes
+    attributes:
+      label: Are you a Veteran?
+      description: Consider adding your name to the [Veterans willing to help VA teams with product testing](https://github.com/department-of-veterans-affairs/va.gov-team-sensitive/blob/master/Administrative/vagov-users/team-veterans.md) document
+      options:
+        - label: Complete
+  - type: checkboxes
+    attributes:
+      label: Review Educational page
+      description: Placeholder, verbiage may change, will link to page
         - label: Complete
