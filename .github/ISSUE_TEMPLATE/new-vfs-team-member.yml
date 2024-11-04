@@ -86,7 +86,7 @@ body:
   - type: checkboxes
     attributes:
       label: Confirm access
-      description: **Note** Membership in the VA Github Organization is a prerequisite for getting access to `vets.gov-write` and access to many commonly-used repositories. Platform will not be able to complete this task if you are not a member of the VA GitHub Organization.
+      description: **Note** Membership in the VA Github Organization is a prerequisite for getting access to vets.gov-write and access to many commonly-used repositories. Platform will not be able to complete this task if you are not a member of the VA GitHub Organization.
       options:
         - label: Confirm that you have access to the [VA GitHub Organization](https://depo-platform-documentation.scrollhelp.site/getting-started/request-access-to-tools#Requestaccesstotools-GettingaccesstotheVAGitHuborganization)
   - type: checkboxes
