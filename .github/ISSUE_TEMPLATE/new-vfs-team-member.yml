@@ -30,6 +30,25 @@ body:
       label: Email
     validations:
       required: true
+  - type: input
+    id: GitHubhandle
+    attributes:
+      label: GitHub handle
+      description: Providing your GitHub handle will allow Platform to provide you access to the necessary GitHub repos.
+    validations:
+      required: true
+  - type: input
+    id: startdate
+    attributes:
+      label: Start date
+    validations:
+      required: true
+  - type: input
+    id: vfsteam
+    attributes:
+      label: VFS team
+    validations:
+      required: true
   - type: markdown
     attributes:
       value: "Here's some extra instructions, plus a [link to useful information](https://va.gov)."
