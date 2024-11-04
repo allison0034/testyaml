@@ -4,8 +4,6 @@ title: "New VFS Team Member Template Your name here"
 labels: ["platform-orientation", "new-vfs-team-member", "platform-tech-team-support"]
 assignees: 
 body:
-## Welcome and introduction
-Welcome to the Department of Veterans Affairs (VA) Veteran Facing Services (VFS) team.
   - type: input
     id: your-name
     attributes:
