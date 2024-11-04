@@ -101,5 +101,5 @@ body:
   - type: checkboxes
     attributes:
       label: Review Educational page
-      description: Placeholder, verbiage may change, will link to page
+      description: Placeholder verbiage may change will link to page
         - label: Complete
