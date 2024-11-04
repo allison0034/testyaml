@@ -26,7 +26,7 @@ body:
         - label: Complete
   - type: checkboxes
     attributes:
-      label:
+      label: Slack profile
       description: Update your [Slack profile](https://depo-platform-documentation.scrollhelp.site/getting-started/slack-profile)
       options:
         - label: Complete
