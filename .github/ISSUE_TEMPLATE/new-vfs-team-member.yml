@@ -18,6 +18,18 @@ body:
       description: (e.g. she/her)
     validations:
       required: false
+  - type: input
+    id: role
+    attributes:
+      label: Role
+    validations:
+      required: true
+  - type: input
+    id: email
+    attributes:
+      label: Email
+    validations:
+      required: true
   - type: markdown
     attributes:
       value: "Here's some extra instructions, plus a [link to useful information](https://va.gov)."
