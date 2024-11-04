@@ -29,7 +29,7 @@ body:
       label: Update your Slack profile
       description: Go to [Slack profile information](https://depo-platform-documentation.scrollhelp.site/getting-started/slack-profile)
       options:
-        - label: Complete
+        - label: Go to [Slack profile information](https://depo-platform-documentation.scrollhelp.site/getting-started/slack-profile)
   - type: input
     id: your-name
     attributes:
