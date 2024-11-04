@@ -21,12 +21,10 @@ body:
   - type: checkboxes
     id: all
     attributes:
-      label: Complete these tasks
-      description: 
+      label: Add your name to the ticket title
+      description: Update your [Slack profile](https://depo-platform-documentation.scrollhelp.site/getting-started/slack-profile)
       options:
-        - label: Add your name to the ticket title
-        - label: Update your [Slack profile](https://depo-platform-documentation.scrollhelp.site/getting-started/slack-profile)
-        - label: Dinner
+        - label: Complete
   - type: markdown
     attributes:
       value: "[ ] Add your name to the ticket title"
