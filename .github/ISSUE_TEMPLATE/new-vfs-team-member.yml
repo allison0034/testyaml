@@ -11,6 +11,13 @@ body:
       label: Your name
     validations:
       required: true
+  - type: input
+    id: pronouns
+    attributes:
+      label: Pronouns
+      description: (e.g. she/her)
+    validations:
+      required: false
   - type: markdown
     attributes:
       value: "Here's some extra instructions, plus a [link to useful information](https://va.gov)."
