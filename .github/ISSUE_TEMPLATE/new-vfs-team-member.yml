@@ -8,7 +8,7 @@ body:
       value: "## Welcome and introduction"
   - type: markdown
     attributes:
-      value: "[]Welcome to the Department of Veterans Affairs (VA) Veteran Facing Services (VFS) team."
+      value: "[] Welcome to the Department of Veterans Affairs (VA) Veteran Facing Services (VFS) team."
   - type: markdown
     attributes:
       value: "The tasks on this list are designed to provide you with access to technologies, and maintain professional and legal compliance between VA.gov and its various contractors."
