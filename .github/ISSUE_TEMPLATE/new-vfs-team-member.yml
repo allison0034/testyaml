@@ -22,7 +22,13 @@ body:
     id: all
     attributes:
       label: Add your name to the ticket title
-      description: Update your [Slack profile](https://depo-platform-documentation.scrollhelp.site/getting-started/slack-profile)
+      options:
+        - label: Complete
+  - type: checkboxes
+    id: all
+    attributes:
+      label: Update your Slack profile
+      description: [Slack profile information](https://depo-platform-documentation.scrollhelp.site/getting-started/slack-profile)
       options:
         - label: Complete
   - type: markdown
