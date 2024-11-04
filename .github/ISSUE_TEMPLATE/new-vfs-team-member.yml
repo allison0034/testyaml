@@ -9,7 +9,6 @@ body:
     id: your-name
     attributes:
       label: Your name
-      description: This is where your name goes
     validations:
       required: true
   - type: markdown
