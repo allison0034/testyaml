@@ -17,10 +17,10 @@ body:
       value: "Complete the form and tasks then click create."
   - type: markdown
     attributes:
-      value: "###All"
+      value: "### All"
   - type: markdown
     attributes:
-      value: "Complete the form and tasks then click create."
+      value: "[ ] Add your name to the ticket title"
   - type: input
     id: your-name
     attributes:
