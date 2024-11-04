@@ -26,10 +26,10 @@ body:
         - label: Complete
   - type: checkboxes
     attributes:
-      label: Code of Conduct
+      label: Update your Slack profile
       description: The Code of Conduct helps create a safe space for everyone. We require that everyone agrees to it [Code of Conduct](https://github.com/allison0034/testyaml/edit/main/.github/ISSUE_TEMPLATE/new-vfs-team-member.yml).
       options:
-        - label: I agree to follow this project's 
+        - label: Complete
   - type: input
     id: your-name
     attributes:
