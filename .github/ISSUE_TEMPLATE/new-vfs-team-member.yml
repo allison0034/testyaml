@@ -24,13 +24,6 @@ body:
       label: Add your name to the ticket title
       options:
         - label: Complete
-  - type: checkboxes
-    id: profile
-    attributes:
-      label: Update your Slack profile
-      description: [Slack profile information](https://depo-platform-documentation.scrollhelp.site/getting-started/slack-profile)
-      options:
-        - label: Complete
   - type: markdown
     attributes:
       value: "[ ] Add your name to the ticket title"
