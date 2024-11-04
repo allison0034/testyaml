@@ -91,10 +91,10 @@ body:
         - label: Confirm that you have access to the [VA GitHub Organization](https://depo-platform-documentation.scrollhelp.site/getting-started/request-access-to-tools#Requestaccesstotools-GettingaccesstotheVAGitHuborganization)
   - type: checkboxes
     attributes:
-      label: Opt out of Google Analytics on all of your browsers on your work machines, personal machines (if you are not a Veteran yourself using the site for your own applications), and mobile devices
-      description: Go to [Opt out of Google Analytics](https://www.va.gov/analytics-opt-out.html)
+      label: Opt out of Google Analytics
+      description: 
       options:
-        - label: Complete
+        - label: [Opt out of Google Analytics](https://www.va.gov/analytics-opt-out.html) on all of your browsers on your work machines, personal machines (if you are not a Veteran yourself using the site for your own applications), and mobile devices
   - type: checkboxes
     attributes:
       label: Are you a Veteran?
