@@ -8,7 +8,7 @@ body:
       value: "## Welcome and introduction"
   - type: markdown
     attributes:
-      value: "[ ] Welcome to the Department of Veterans Affairs (VA) Veteran Facing Services (VFS) team."
+      value: "Welcome to the Department of Veterans Affairs (VA) Veteran Facing Services (VFS) team."
   - type: markdown
     attributes:
       value: "The tasks on this list are designed to provide you with access to technologies, and maintain professional and legal compliance between VA.gov and its various contractors."
@@ -29,7 +29,13 @@ body:
       label: Update your Slack profile
       description: Go to [Slack profile information](https://depo-platform-documentation.scrollhelp.site/getting-started/slack-profile)
       options:
-        - label: Go to [Slack profile information](https://depo-platform-documentation.scrollhelp.site/getting-started/slack-profile)
+        - label: Complete
+  - type: checkboxes
+    attributes:
+      label: Request access to tools
+      description: Go to [request access to tools](https://depo-platform-documentation.scrollhelp.site/getting-started/Request-access-to-tools.969605215.html)
+      options:
+        - label: Complete
   - type: input
     id: your-name
     attributes:
