@@ -17,6 +17,9 @@ body:
       value: "Complete the form and tasks then click create."
   - type: markdown
     attributes:
+      value: "**Note:** this ticket should not be submitted/created until after you receive access to the appropriate repos. You will receive an email titled “USAccess PIV Sponsored” when your access is ready."
+  - type: markdown
+    attributes:
       value: "### All"
   - type: checkboxes
     id: all
