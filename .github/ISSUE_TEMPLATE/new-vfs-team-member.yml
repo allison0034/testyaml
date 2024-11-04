@@ -18,6 +18,15 @@ body:
   - type: markdown
     attributes:
       value: "### All"
+  - type: checkboxes
+    id: all
+    attributes:
+      label: Complete these tasks
+      description: 
+      options:
+        - label: Add your name to the ticket title
+        - label: Update your [Slack profile](https://depo-platform-documentation.scrollhelp.site/getting-started/slack-profile)
+        - label: Dinner
   - type: markdown
     attributes:
       value: "[ ] Add your name to the ticket title"
