@@ -24,9 +24,9 @@ body:
   - type: checkboxes
     id: all
     attributes:
-      label: Add your name to the ticket title
+      label: Ticket title
       options:
-        - label: Complete
+        - label: Add your name to the ticket title
   - type: input
     id: your-name
     attributes:
@@ -79,10 +79,10 @@ body:
         - label: Update your [Slack profile](https://depo-platform-documentation.scrollhelp.site/getting-started/slack-profile)
   - type: checkboxes
     attributes:
-      label: Request access to tools
-      description: Go to [request access to tools](https://depo-platform-documentation.scrollhelp.site/getting-started/Request-access-to-tools.969605215.html)
+      label: Access to tools
+      description:
       options:
-        - label: Complete
+        - label: [Request Access to Tools](https://depo-platform-documentation.scrollhelp.site/getting-started/Request-access-to-tools.969605215.html)
   - type: checkboxes
     attributes:
       label: Confirm that you have access to the VA GitHub Organization
