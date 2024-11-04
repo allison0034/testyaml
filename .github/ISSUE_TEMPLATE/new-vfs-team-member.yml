@@ -2,8 +2,6 @@ name: "New VFS team member"
 description: "This is just an example, not actually in use anywhere."
 title: "New VFS Team Member Template Your name here"
 labels: ["platform-orientation", "new-vfs-team-member", "platform-tech-team-support"]
-assignees: 
-  - shiragoodman
 body:
   - type: input
     id: your-name
