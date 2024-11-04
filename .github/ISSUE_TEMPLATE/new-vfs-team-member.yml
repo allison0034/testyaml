@@ -9,6 +9,12 @@ body:
   - type: markdown
     attributes:
       value: "Welcome to the Department of Veterans Affairs (VA) Veteran Facing Services (VFS) team."
+  - type: markdown
+    attributes:
+      value: "As a new VFS team member, you will be working in the web ecosystem we call the VA.gov Platform (or "**The Platform,**" for short). The tasks on this list are designed to provide you with access to technologies, and maintain professional and legal compliance between VA.gov and its various contractors."
+- type: markdown
+    attributes:
+      value: "Complete the form and tasks then click create."
   - type: input
     id: your-name
     attributes:
