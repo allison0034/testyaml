@@ -102,4 +102,5 @@ body:
     attributes:
       label: Review Educational page
       description: Placeholder verbiage may change will link to page
+      options:
         - label: Complete
