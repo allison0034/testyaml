@@ -24,18 +24,6 @@ body:
       label: Add your name to the ticket title
       options:
         - label: Complete
-  - type: checkboxes
-    attributes:
-      label: Update your Slack profile
-      description: Go to [Slack profile information](https://depo-platform-documentation.scrollhelp.site/getting-started/slack-profile)
-      options:
-        - label: Complete
-  - type: checkboxes
-    attributes:
-      label: Request access to tools
-      description: Go to [request access to tools](https://depo-platform-documentation.scrollhelp.site/getting-started/Request-access-to-tools.969605215.html)
-      options:
-        - label: Complete
   - type: input
     id: your-name
     attributes:
@@ -80,3 +68,15 @@ body:
       label: VFS team
     validations:
       required: true
+  - type: checkboxes
+    attributes:
+      label: Update your Slack profile
+      description: Go to [Slack profile information](https://depo-platform-documentation.scrollhelp.site/getting-started/slack-profile)
+      options:
+        - label: Complete
+  - type: checkboxes
+    attributes:
+      label: Request access to tools
+      description: Go to [request access to tools](https://depo-platform-documentation.scrollhelp.site/getting-started/Request-access-to-tools.969605215.html)
+      options:
+        - label: Complete
