@@ -103,18 +103,6 @@ body:
         - label: Complete
   - type: markdown
     attributes:
-      value: "### Practice area specific"
-  - type: markdown
-    attributes:
-      value: "#### Front-end and back-end Engineers"
-  - type: checkboxes
-    attributes:
-      label: Confirm that You Can Log In as a Test User
-      description: Go to [Confirm that You Can Log In as a Test User](https://github.com/department-of-veterans-affairs/va.gov-team-sensitive/blob/master/Administrative/accessing-staging.md)
-      options:
-        - label: Complete
-  - type: markdown
-    attributes:
       value: "#### Product Managers & Delivery Managers"
  - type: checkboxes
     attributes:
