@@ -24,9 +24,12 @@ body:
       label: Add your name to the ticket title
       options:
         - label: Complete
-  - type: markdown
+  - type: checkboxes
     attributes:
-      value: "[ ] Add your name to the ticket title"
+      label: Code of Conduct
+      description: The Code of Conduct helps create a safe space for everyone. We require that everyone agrees to it [Code of Conduct](https://github.com/allison0034/testyaml/edit/main/.github/ISSUE_TEMPLATE/new-vfs-team-member.yml).
+      options:
+        - label: I agree to follow this project's 
   - type: input
     id: your-name
     attributes:
