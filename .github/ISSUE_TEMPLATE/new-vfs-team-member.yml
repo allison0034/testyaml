@@ -101,7 +101,6 @@ body:
       description: Consider adding your name to the [Veterans willing to help VA teams with product testing](https://github.com/department-of-veterans-affairs/va.gov-team-sensitive/blob/master/Administrative/vagov-users/team-veterans.md) document
       options:
         - label: Complete
-  Front-end and back-end Engineers
   - type: markdown
     attributes:
       value: "### Practice area specific"
