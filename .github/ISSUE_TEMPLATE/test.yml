@@ -21,12 +21,6 @@ body:
   - type: markdown
     attributes:
       value: "### All"
-  - type: checkboxes
-    id: all
-    attributes:
-      label: Ticket title
-      options:
-        - label: Add your name to the ticket title
   - type: input
     id: your-name
     attributes:
@@ -76,9 +70,10 @@ body:
       label: Slack profile
       description: 
       options:
+        - label: Add your name to the ticket title
         - label: Update your [Slack profile](https://depo-platform-documentation.scrollhelp.site/getting-started/slack-profile)
         - label: Request [access to tools](https://depo-platform-documentation.scrollhelp.site/getting-started/Request-access-to-tools.969605215.html)
-        - label: Confirm that you have access to the [VA GitHub Organization](https://depo-platform-documentation.scrollhelp.site/getting-started/request-access-to-tools#Requestaccesstotools-GettingaccesstotheVAGitHuborganization). Note Membership in the VA Github Organization is a prerequisite for getting access to vets.gov-write and access to many commonly-used repositories. Platform will not be able to complete this task if you are not a member of the VA GitHub Organization.    
+        - label: Confirm that you have access to the [VA GitHub Organization](https://depo-platform-documentation.scrollhelp.site/getting-started/request-access-to-tools#Requestaccesstotools-GettingaccesstotheVAGitHuborganization). **Note** Membership in the VA Github Organization is a prerequisite for getting access to vets.gov-write and access to many commonly-used repositories. Platform will not be able to complete this task if you are not a member of the VA GitHub Organization.    
   - type: checkboxes
     attributes:
       label: Opt out of Google Analytics
