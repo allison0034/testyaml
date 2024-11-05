@@ -65,3 +65,14 @@ body:
       label: VFS team
     validations:
       required: true
+  - type: checkboxes
+    attributes:
+      label: Tasks
+      description: 
+      options:
+        - label: Add your name to the ticket title
+        - label: Update your [Slack profile](https://depo-platform-documentation.scrollhelp.site/getting-started/slack-profile)
+        - label: Request [access to tools](https://depo-platform-documentation.scrollhelp.site/getting-started/Request-access-to-tools.969605215.html)
+        - label: Confirm that you have access to the [VA GitHub Organization](https://depo-platform-documentation.scrollhelp.site/getting-started/request-access-to-tools#Requestaccesstotools-GettingaccesstotheVAGitHuborganization). **Note** Membership in the VA Github Organization is a prerequisite for getting access to vets.gov-write and access to many commonly-used repositories. Platform will not be able to complete this task if you are not a member of the VA GitHub Organization.
+        - label: Opt out of [Google Analytics](https://www.va.gov/analytics-opt-out.html) on all of your browsers on your work machines, personal machines (if you are not a Veteran yourself using the site for your own applications), and mobile devices
+        - label: Are you a Veteran? Consider adding your name to the [Veterans willing to help VA teams with product testing](https://github.com/department-of-veterans-affairs/va.gov-team-sensitive/blob/master/Administrative/vagov-users/team-veterans.md) document
