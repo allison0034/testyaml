@@ -82,10 +82,4 @@ body:
   - type: markdown
     attributes:
       value: "### Product Managers & Delivery Managers"
-  - type: checkboxes
-    attributes:
-      label: Tasks
-      description: 
-      options:
-        - label: Schedule a PM intro via [Calendly](https://calendly.com/collaboration-cycle/product-manager-intro) with Shira Goodman (Platform Governance Team PM).
-        - label: If your team is new, please complete the [New VFS Team ticket](https://depo-platform-documentation.scrollhelp.site/getting-started/guidance-for-new-teams-and-team-members#Guidancefornewteamsandteammembers-NewVFSteams). If you're joining an existing team, you can skip this step.
+  
