@@ -77,18 +77,8 @@ body:
       description: 
       options:
         - label: Update your [Slack profile](https://depo-platform-documentation.scrollhelp.site/getting-started/slack-profile)
-  - type: checkboxes
-    attributes:
-      label: Access to tools
-      description:
-      options:
         - label: Request [access to tools](https://depo-platform-documentation.scrollhelp.site/getting-started/Request-access-to-tools.969605215.html)
-  - type: checkboxes
-    attributes:
-      label: Confirm access
-      description: Note Membership in the VA Github Organization is a prerequisite for getting access to vets.gov-write and access to many commonly-used repositories. Platform will not be able to complete this task if you are not a member of the VA GitHub Organization.
-      options:
-        - label: Confirm that you have access to the [VA GitHub Organization](https://depo-platform-documentation.scrollhelp.site/getting-started/request-access-to-tools#Requestaccesstotools-GettingaccesstotheVAGitHuborganization)
+        - label: Confirm that you have access to the [VA GitHub Organization](https://depo-platform-documentation.scrollhelp.site/getting-started/request-access-to-tools#Requestaccesstotools-GettingaccesstotheVAGitHuborganization). Note Membership in the VA Github Organization is a prerequisite for getting access to vets.gov-write and access to many commonly-used repositories. Platform will not be able to complete this task if you are not a member of the VA GitHub Organization.    
   - type: checkboxes
     attributes:
       label: Opt out of Google Analytics
