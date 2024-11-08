@@ -65,7 +65,6 @@ body:
       description: 
       options:
         - label: Add your name to the ticket title
-      validations:
         required: true
         - label: Update your [Slack profile](https://depo-platform-documentation.scrollhelp.site/getting-started/slack-profile)
         - label: Request [access to tools](https://depo-platform-documentation.scrollhelp.site/getting-started/Request-access-to-tools.969605215.html)
