@@ -101,12 +101,3 @@ body:
       options:
         - label: New VFS team member has been added to the VFS Team Roster located in [Atlas](https://www.va.gov/atlas/)
         - label: New VFS team member has been added to the vets.gov-write GitHub team
-  - type: markdown
-    attributes:
-      value: "---"
-  - type: checkboxes
-    attributes:
-      label: Tasks for off-boarding of teammates
-      description: 
-      options:
-        - label: Review [process for when a teammate leaves](https://depo-platform-documentation.scrollhelp.site/getting-started/offboarding)
