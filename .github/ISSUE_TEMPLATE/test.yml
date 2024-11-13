@@ -14,7 +14,7 @@ body:
       value: "**Note:** this ticket should not be submitted/created until after you receive access to the appropriate repos. You will receive an email titled “USAccess PIV Sponsored” when your access is ready."
   - type: markdown
     attributes:
-      value: "## Form fields"
+      value: "## Form"
   - type: input
     id: your-name
     attributes:
