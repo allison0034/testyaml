@@ -5,16 +5,16 @@ labels: []
 body:
   - type: markdown
     attributes:
-      value: "## Welcome and introduction"
+      value: "## How to complete this template"
   - type: markdown
     attributes:
-      value: "Welcome to the Department of Veterans Affairs (VA) Veteran Facing Services (VFS) team."
-  - type: markdown
-    attributes:
-      value: "Complete the form and tasks then click create."
+      value: "Complete the form fields and tasks, then click the submit new issue button."
   - type: markdown
     attributes:
       value: "**Note:** this ticket should not be submitted/created until after you receive access to the appropriate repos. You will receive an email titled “USAccess PIV Sponsored” when your access is ready."
+  - type: markdown
+    attributes:
+      value: "## Form fields"
   - type: input
     id: your-name
     attributes:
@@ -59,6 +59,9 @@ body:
       label: VFS team
     validations:
       required: true
+  - type: markdown
+    attributes:
+      value: "## Tasks"
   - type: checkboxes
     attributes:
       label: Tasks for everyone
