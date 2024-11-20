@@ -1,6 +1,6 @@
-name: "New VFS team member2"
+name: "New VFS team member"
 description: "New VFS team members fill out this form."
-title: "New VFS Team Member Template Your name here2"
+title: "New VFS Team Member Template Your name here"
 labels: []
 body:
   - type: markdown
@@ -11,7 +11,7 @@ body:
       value: "Complete the form fields and tasks, then click the submit new issue button."
   - type: markdown
     attributes:
-      value: "**Note:** this ticket should not be submitted/created until after you receive access to the appropriate repos. You will receive an email titled “USAccess PIV Sponsored” when your access is ready."
+      value: "**Note:** This ticket should not be submitted until the new VFS team member is a member of the VA GitHub Organization per the[ Platform Prerequisites for Access Requests](https://depo-platform-documentation.scrollhelp.site/getting-started/prerequisites-for-access-requests#PrerequisitesforAccessRequests-Atlas/Vets.gov-write) guidance."
   - type: markdown
     attributes:
       value: "## Form"
